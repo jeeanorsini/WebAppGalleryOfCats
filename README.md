@@ -17,9 +17,8 @@
 
 ## 📚 Em que estou trabalhando
 
-- Desenvolvendo um **diário digital animado** para apoiar o dia a dia de crianças com autismo.
+- Desenvolvendo um **Aplicativo de companhia digital** para apoio diário.
 - Publicando **e-books** focados em marketing e desenvolvimento pessoal.
-- Explorando **Jekyll + GitHub Pages** para construir sites rápidos e otimizados.
 - Testando **Docker, Git, GitHub Actions** e outras ferramentas modernas de desenvolvimento e deploy.
 
 ---
