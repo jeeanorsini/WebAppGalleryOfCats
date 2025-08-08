@@ -27,7 +27,7 @@ CatPhotoApp features a well-organized page with sections displaying cat photos, 
 
 ## Purpose
 
-This project is part of a hands-on learning process in HTML, focusing on creating organized and accessible web pages.
+This project is part of a hands-on from the [freeCodeCamp](https://www.freecodecamp.org/) HTML course, focusing on creating organized and accessible web pages.
 
 ---
 
