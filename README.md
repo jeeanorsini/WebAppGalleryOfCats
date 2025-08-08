@@ -36,7 +36,9 @@
 
 ## 🤝 Vamos nos conectar?
 
-- 📷 [Instagram (@jeeanorsini)](https://www.instagram.com/jeeanorsini/)
+- **📱 WhatsApp:** [+55 21 99568-5141](https://wa.me/5521995685141)  
+- **📧 E-mail:** [jeanorsini@gmail.com](mailto:jeanorsini@gmail.com)  
+- **📸 Instagram:** [@jeeanorsini](https://instagram.com/jeeanorsini)
 
 ---
 
