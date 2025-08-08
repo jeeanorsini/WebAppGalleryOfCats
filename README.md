@@ -45,4 +45,4 @@
 > Mas visão com ação pode mudar o mundo.”  
 > — Joel Barker
 
-Obrigado por passar por aqui! Se quiser trocar ideias ou colaborar, só me chamar. 🤝✨
+Obrigado por passar por aqui! Se quiser trocar ideias ou colaborar, só me chama que eu vou estar aqui pra te atender. 🤝✨
