@@ -28,7 +28,8 @@ Camper Cafe presents a styled menu for a fictional coffee shop, featuring sectio
 
 ## Purpose
 
-This project is part of hands-on learning in web design, focusing on CSS styling techniques and semantic HTML markup.
+This project is part of hands-on learning in web design responsive [freeCodeCamp](https://www.freecodecamp.org/).
+O objetivo é desenvolver habilidades em HTML e CSS, focusing on CSS styling techniques and semantic HTML markup.
 
 ---
 
