@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jean Orsini
+# 👋 Olá, me chamo Jean Orsini
 
 🚀 Apaixonado por criar, comunicar e transformar ideias em presença digital.  
 🧠 Empreendedor autodidata, criador de soluções e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.  
