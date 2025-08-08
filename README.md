@@ -1,30 +1,30 @@
-# 👋 Hi, I'm Jean Orsini
+# 👋 Olá, eu sou o Jean Orsini
 
-🚀 Passionate about creating, communicating, and turning ideas into digital presence.  
-🧠 Self-taught entrepreneur, solution creator, and a constant learner in tech, marketing, and web development.  
-💼 Currently focused on purpose-driven digital projects — e-books, landing pages, apps, and websites.
-
----
-
-## 💡 About Me
-
-- 🎯 On a mission to impact people through creativity, faith, and an entrepreneurial vision.
-- 🧩 Studying **HTML, CSS, JavaScript, and Java** daily and applying it to real-world projects.
-- 🛠️ Curious about automation, digital marketing, accessible tech, and low-cost tools for businesses.
-- 📍 Based in Brazil but building solutions for a global audience 🌍.
+🚀 Apaixonado por criar, comunicar e transformar ideias em presença digital.  
+🧠 Empreendedor autodidata, criador de soluções e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.  
+💼 Atualmente focado em projetos digitais com propósito — e-books, landing pages, aplicativos e sites.
 
 ---
 
-## 📚 What I'm Working On
+## 💡 Sobre mim
 
-- Developing an **animated digital journal** designed to support the daily lives of children with autism.
-- Publishing **e-books** focused on marketing and personal development.
-- Exploring **Jekyll + GitHub Pages** to build fast, optimized websites.
-- Testing out **Docker, Git, GitHub Actions**, and other modern development & deployment tools.
+- 🎯 Em missão para impactar pessoas através da criatividade, da fé e de uma visão empreendedora.
+- 🧩 Estudando **HTML, CSS, JavaScript e Java** todos os dias e aplicando em projetos reais.
+- 🛠️ Interessado em automação, marketing digital, tecnologia acessível e ferramentas de baixo custo para negócios.
+- 📍 Baseado no Brasil, mas criando soluções para o mundo inteiro 🌍.
 
 ---
 
-## 🧰 Tech Stack I'm Using
+## 📚 Em que estou trabalhando
+
+- Desenvolvendo um **diário digital animado** para apoiar o dia a dia de crianças com autismo.
+- Publicando **e-books** focados em marketing e desenvolvimento pessoal.
+- Explorando **Jekyll + GitHub Pages** para construir sites rápidos e otimizados.
+- Testando **Docker, Git, GitHub Actions** e outras ferramentas modernas de desenvolvimento e deploy.
+
+---
+
+## 🧰 Tecnologias que estou usando
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -35,15 +35,15 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Vamos nos conectar?
 
 - 📷 [Instagram (@jeeanorsini)](https://www.instagram.com/jeeanorsini/)
 
 ---
 
-> “Vision without action is merely a dream.  
-> Action without vision just passes the time.  
-> But vision with action can change the world.”  
+> “Visão sem ação é apenas um sonho.  
+> Ação sem visão é apenas passatempo.  
+> Mas visão com ação pode mudar o mundo.”  
 > — Joel Barker
 
-Thanks for stopping by! If you'd like to connect or share ideas, feel free to reach out. 🤝✨
+Obrigado por passar por aqui! Se quiser trocar ideias ou colaborar, só me chamar. 🤝✨
