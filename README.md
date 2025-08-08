@@ -38,7 +38,6 @@
 ## 🤝 Let's Connect
 
 - 📷 [Instagram (@jeeanorsini)](https://www.instagram.com/jeeanorsini/)
-- 📌 [Pinterest (jeanorsini)](https://br.pinterest.com/jeanorsini/)
 
 ---
 
